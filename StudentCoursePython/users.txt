@@ -1,0 +1,3 @@
+Olamide,raheemhawanat@gmail.com,1234,instructor
+Olamide,rah,1234,student
+ola,ola@gmail.com,123,instructor
